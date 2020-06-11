@@ -12,4 +12,4 @@ This repository contains documentation and code in the format of hands-on labs t
 
 ## Labs
 
-{{% children depth='2' %}}
+{{% children depth="2" %}}

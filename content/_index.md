@@ -23,4 +23,4 @@ Inspired by Angela Duckworth's book - **Grit: The Power of Passion and Persevera
 
 ## Learning Modules:
 The learning modules are structured around:
-{{% children depth=1 %}}
+{{% children depth="1" %}}

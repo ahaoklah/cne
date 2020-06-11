@@ -15,4 +15,4 @@ This learning module contains documentation and code in the format of hands-on l
 
 ## Labs
 
-{{% children depth=2 %}}
+{{% children depth="2" %}}

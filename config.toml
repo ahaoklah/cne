@@ -1,0 +1,7 @@
+baseURL = "https://dev-grincerlabs.com/"
+languageCode = "en-us"
+title = "Grincer Labs"
+theme = "hugo-theme-learn"
+
+[params]
+themeVariant = "blue"
